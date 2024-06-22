@@ -1,13 +1,13 @@
-# Análisis Comparativo de Técnicas de Predicción de Series Temporales
+# Comparative Analysis of Time Series Prediction Techniques
 
-## Descripción del Repositorio
+## Repository Description
 
-Este repositorio documenta meticulosamente la evolución del proyecto desde su concepción inicial hasta su culminación. El objetivo principal es replicar y contrastar dos técnicas específicas para la resolución de una problemática definida, asegurando que los resultados obtenidos mantengan una concordancia significativa con aquellos presentados en el artículo de referencia.
+This repository meticulously documents the evolution of the project from its initial conception to its completion. The main objective is to replicate and contrast two specific techniques for solving a defined problem, ensuring that the results obtained maintain significant agreement with those presented in the reference article.
 
-## Contexto de Investigación
+## Research Context
 
-El contexto de investigación se centra en el desafío de la predicción de series temporales a largo plazo. Mientras que el artículo original presenta un análisis comparativo exhaustivo de múltiples técnicas, nuestra investigación se enfoca en un estudio comparativo más acotado, examinando en profundidad dos de estas metodologías.
+The research context focuses on the challenge of long-term time series prediction. While the original article presents an exhaustive comparative analysis of multiple techniques, our research focuses on a more limited comparative study, examining two of these methodologies in depth.
 
-## Implementación y Modificaciones
+## Implementation and Modifications
 
-En el proceso de implementación, se han realizado modificaciones selectivas al código fuente original. Estas adaptaciones han sido cuidadosamente diseñadas para facilitar la ejecución de los experimentos pertinentes, manteniendo la integridad metodológica y la validez de los resultados obtenidos.
+In the implementation process, selective modifications have been made to the original source code. These adaptations have been carefully designed to facilitate the execution of the relevant experiments, maintaining the methodological integrity and validity of the results obtained.
